@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @axelcbg
 - 👀 I’m interested in Interaction Design
-- 🌱 I’m currently learning Interaction design, UDD Chile
+- 🌱 I’m currently learning Interaction Design, UDD Chile
 - 📫 How to reach me @axelbergergg on instagram
 
 <!---
